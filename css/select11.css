@@ -1,0 +1,99 @@
+.letter{
+	display: flex;
+	width: 100%;
+}
+.letter1{
+	float: left;
+ color: #42455a;
+  background: #e0ffff;
+  width: 100px;
+  height: 80px;
+  border: 1px solid black;
+  
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.check1{
+	float: left;
+ color: #42455a;
+  background: #e0ffff;
+  width: 100px;
+  height: 80px;
+  border: 1px solid black;
+  
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.letter2{
+	float: left;
+ color: #42455a;
+  background: #e0ffff;
+  width: 800px;
+  height: 80px;
+  border: 1px solid black;
+  display: flex;
+
+  align-items: center;
+}
+.point1{
+	padding: 12px;
+	width: 14px;
+	border-radius: 50%;
+	 background: green;
+	 cursor: pointer;
+	 display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.point111{
+	padding: 8px;
+	border-radius: 50%;
+	 background: green;
+}
+.foto1, .price1, .title{
+	float: left;
+	position: absolute;
+}
+.price1{
+	margin-left: 100px;
+}
+.title{
+	margin-left: 180px;
+}
+#nomer{
+	position: fixed;
+	margin-top: 380px;
+	margin-left: 50px;
+	
+  display: none;
+  z-index: 1000;  
+}
+#lll{
+	display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #CBD6E2;
+  width: 200px;
+  height: 60px;
+  border: 1px solid black;
+  border-radius: 6px;
+  z-index: 1000;
+}
+#rrr333{
+	display: flex;
+  justify-content: center;
+  align-items: center;
+  background: red;
+  width: 100px;
+  height: 60px;
+  border: 1px solid black;
+  border-radius: 6px;
+  z-index: 1000;
+}
+.box1{
+	width: 40px;
+	height: 40px;
+}
+
