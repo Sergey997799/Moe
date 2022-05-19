@@ -89,8 +89,11 @@ $("#Vasya").click(function(){
  $("#Roma").html("<p id='Roma'>Roma+" + RR + "</p>");  
 });
 	
- $('#moe').click(function(){ 
-	$("#moe").hide();
-		 });
 
 });
+
+<script>
+	 $('#moe').click(function(){ 
+	$("#moe").hide();
+		 });
+	</script>
