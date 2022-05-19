@@ -88,5 +88,9 @@ $("#Vasya").click(function(){
  $("#Fedya").html("<p id='Fedya'>Fedya+" + FF + "</p>"); 
  $("#Roma").html("<p id='Roma'>Roma+" + RR + "</p>");  
 });
+	
+ $('#moe').click(function(){ 
+	$("#moe").hide();
+		 });
 
 });
