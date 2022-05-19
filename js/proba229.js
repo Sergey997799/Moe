@@ -92,8 +92,7 @@ $("#Vasya").click(function(){
 
 });
 
-<script>
-	 $('#moe').click(function(){ 
+ $('#moe').click(function(){ 
 	$("#moe").hide();
 		 });
-	</script>
+	
